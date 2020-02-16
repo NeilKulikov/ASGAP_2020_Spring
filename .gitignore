@@ -1,0 +1,6 @@
+*.fls
+*.log
+*.out
+*.syntex.gz
+**/.ipynb_checkpoints
+.DS_Store
